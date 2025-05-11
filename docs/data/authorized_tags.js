@@ -1,26 +1,26 @@
 const userDefinedAuthorizedTags = {
-  "Type:CNN": {
+  "type:CNN": {
     "description": "Papers using CNN architecture"
   },
-  "Type:ViT": {
+  "type:ViT": {
     "description": "Papers using Vision Transformers"
   },
-  "Type:Hybrid": {
+  "type:Hybrid": {
     "description": "Hybrid model (CNN + ViT)"
   },
-  "Type:Survey": {
+  "type:Survey": {
     "description": "Survey or review papers"
   },
-  "Other:Video": {
+  "other:Video": {
     "description": "Video-based deepfakes"
   },
-  "Other:Image": {
+  "other:Image": {
     "description": "Image-based deepfakes"
   },
-  "Other:AUC": {
+  "other:AUC": {
     "description": "Papers reporting AUC"
   },
-  "Other:Benchmark Dataset": {
+  "other:Benchmark Dataset": {
     "description": "Papers using benchmark datasets"
   }
 };
