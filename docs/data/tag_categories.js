@@ -1,11 +1,8 @@
 const userDefinedTagCategories = {
-  "Model": {
-    "description": "Type of model architecture used in detection"
+  "Type": {
+    "description": "Detection model type or paper form"
   },
-  "Input": {
-    "description": "Type of deepfake input data analyzed"
-  },
-  "Eval": {
-    "description": "Evaluation metrics or datasets applied"
+  "Other": {
+    "description": "Input type, dataset, evaluation, etc."
   }
 };
