@@ -3,25 +3,24 @@ const userDefinedAuthorizedTags = {
     "description": "Papers using CNN-based architecture"
   },
   "Model:ViT": {
-    "description": "Papers using Vision Transformer"
+    "description": "Papers using Vision Transformer architecture"
   },
   "Model:Hybrid": {
-    "description": "Hybrid models combining CNN and ViT"
+    "description": "Hybrid models combining CNN and transformer-based architectures"
   },
   "Model:Survey": {
-    "description": "Survey or review papers",
-
+    "description": "Survey or literature review papers"
   },
   "Input:Image": {
-    "description": "Detection on image-based deepfakes"
+    "description": "Papers detecting fake images"
   },
   "Input:Video": {
-    "description": "Detection on video-based deepfakes"
+    "description": "Papers detecting fake videos"
   },
   "Eval:AUC": {
-    "description": "Papers reporting AUC as a metric"
+    "description": "Evaluation metric: Area Under Curve (AUC)"
   },
   "Eval:Benchmark Dataset": {
-    "description": "Papers using standard benchmark datasets"
+    "description": "Paper evaluated on benchmark datasets (e.g. DFDC, FaceForensics++)"
   }
 };
