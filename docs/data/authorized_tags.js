@@ -1,5 +1,5 @@
 const userDefinedAuthorizedTags = {
-	"type:article": {
+	"type": {
 		"description": "paper describing a system"
 	}
 }
