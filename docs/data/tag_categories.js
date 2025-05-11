@@ -1,8 +1,8 @@
 const userDefinedTagCategories = {
-  "Type": {
+  "type": {
     "description": "Detection model type or paper form"
   },
-  "Other": {
+  "other": {
     "description": "Input type, dataset, evaluation, etc."
   }
 };
