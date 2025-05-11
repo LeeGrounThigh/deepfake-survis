@@ -7,7 +7,7 @@ const generatedBibEntries = {
     "series": "IEEE",
     "journal": "Proceedings of 2021 IEEE Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON)",
     "type": "inproceedings",
-    "keywords": "Model:CNN, Input:Video, Eval:AUC, Eval:Benchmark Dataset",
+    "keywords": "Model:cnn, Input:Video, Eval:AUC, Eval:Benchmark Dataset",
     "tags": ["Model:cnn", "Input:Video", "Eval:AUC", "Eval:Benchmark Dataset"],
     "abstract": "This paper proposes a hybrid recurrent deep learning architecture that combines convolutional and LSTM layers to detect deepfake video content. The model is trained on benchmark datasets and evaluated using standard performance metrics including AUC. Results demonstrate competitive detection accuracy and generalizability across datasets, highlighting the potential of recurrent architectures in temporal deepfake detection tasks."
   },
@@ -19,7 +19,7 @@ const generatedBibEntries = {
     "series": "Springer",
     "journal": "Proceedings of the International Conference on Advanced Communications and Machine Intelligence",
     "type": "inproceedings",
-    "keywords": "Model:Hybrid, Input:Video, Eval:AUC, Eval:Benchmark Dataset",
+    "keywords": "Model:hybrid, Input:Video, Eval:AUC, Eval:Benchmark Dataset",
     "tags": ["Model:hybrid", "Input:Video", "Eval:AUC", "Eval:Benchmark Dataset"],
     "abstract": "This paper presents a hybrid deep learning framework combining convolutional and attention-based modules to detect deepfake videos. The authors emphasize robustness across datasets, utilizing data augmentation and domain adaptation techniques. The model shows improved AUC and precision on multiple video deepfake datasets, establishing its effectiveness for real-world applications."
   },
@@ -32,7 +32,7 @@ const generatedBibEntries = {
     "journal": "Emerging Internet, Data & Web Technologies",
     "type": "inproceedings",
     "keywords": "Model:survey, Input:Video, Eval:Benchmark Dataset",
-    "tags": ["Model:Survey", "Input:Video", "Eval:Benchmark Dataset"],
+    "tags": ["Model:survey", "Input:Video", "Eval:Benchmark Dataset"],
     "abstract": "This survey categorizes and analyzes current methods for detecting video deepfakes. It examines techniques including spatial feature extraction, temporal modeling, and attention mechanisms. The paper also reviews benchmark datasets and evaluation criteria, providing a comprehensive overview of the development and challenges in video deepfake detection."
   },
   "Liao2024": {
@@ -44,7 +44,7 @@ const generatedBibEntries = {
     "journal": "Proceedings of the International Conference on Algorithms, High Performance Computing, and Artificial Intelligence",
     "type": "inproceedings",
     "keywords": "Model:vit, Input:Image, Eval:AUC, Eval:Benchmark Dataset",
-    "tags": ["Model:ViT", "Input:Image", "Eval:AUC", "Eval:Benchmark Dataset"],
+    "tags": ["Model:vit", "Input:Image", "Eval:AUC", "Eval:Benchmark Dataset"],
     "abstract": "This paper introduces a vision transformer-based architecture for detecting deepfakes in facial images. By leveraging global attention and patch-based embedding, the model improves sensitivity to subtle artifacts. Experimental results demonstrate state-of-the-art performance on image-based deepfake datasets such as FaceForensics++ and Celeb-DF."
   },
   "Luan2025": {
@@ -56,7 +56,7 @@ const generatedBibEntries = {
     "journal": "International Journal of Emerging Technologies and Advanced Applications",
     "type": "article",
     "keywords": "Model:survey, Input:Image, Eval:Benchmark Dataset",
-    "tags": ["Model:Survey", "Input:Image", "Eval:Benchmark Dataset"],
+    "tags": ["Model:survey", "Input:Image", "Eval:Benchmark Dataset"],
     "abstract": "This article provides a structured review of deepfake detection technologies for both images and videos. It classifies methods based on detection granularity and features used, discusses datasets and limitations, and proposes directions for improving generalization and robustness in future research."
   },
   "Makwana2025": {
@@ -68,7 +68,7 @@ const generatedBibEntries = {
     "journal": "Proceedings of the 4th International Conference on Sentiment Analysis and Deep Learning",
     "type": "inproceedings",
     "keywords": "Model:survey, Input:Video, Eval:Benchmark Dataset",
-    "tags": ["Model:Survey", "Input:Video", "Eval:Benchmark Dataset"],
+    "tags": ["Model:survey", "Input:Video", "Eval:Benchmark Dataset"],
     "abstract": "This comprehensive review explores deep learning-based innovations in detecting deepfake videos. It examines convolutional, recurrent, and transformer architectures, compares datasets and benchmarks, and identifies challenges in adversarial robustness, generalization, and dataset imbalance."
   },
   "Nguyen2024": {
@@ -80,7 +80,7 @@ const generatedBibEntries = {
     "journal": "arXiv preprint",
     "type": "article",
     "keywords": "Model:vit, Input:Image, Eval:AUC, Eval:Benchmark Dataset",
-    "tags": ["Model:ViT", "Input:Image", "Eval:AUC", "Eval:Benchmark Dataset"],
+    "tags": ["Model:vit", "Input:Image", "Eval:AUC", "Eval:Benchmark Dataset"],
     "abstract": "The authors investigate self-supervised training of vision transformers for deepfake detection. Using contrastive learning, the model is trained on unlabeled data and evaluated on FaceForensics++ and DFD datasets. Results suggest self-supervised ViT achieves comparable performance to supervised models while reducing dependence on large labeled datasets."
   },
   "Rana2022": {
@@ -92,7 +92,7 @@ const generatedBibEntries = {
     "journal": "IEEE Access",
     "type": "article",
     "keywords": "Model:survey, Input:Image, Eval:Benchmark Dataset",
-    "tags": ["Model:Survey", "Input:Image", "Eval:Benchmark Dataset"],
+    "tags": ["Model:survey", "Input:Image", "Eval:Benchmark Dataset"],
     "abstract": "This systematic review synthesizes state-of-the-art deepfake detection research. It categorizes detection techniques into spatial, temporal, and frequency-based methods, examines evaluation metrics, and discusses challenges related to generalization, real-world deployment, and adversarial attacks."
   },
   "Soudy2024": {
@@ -104,7 +104,7 @@ const generatedBibEntries = {
     "journal": "Neural Computing and Applications",
     "type": "article",
     "keywords": "Model:hybrid, Input:Image, Eval:AUC, Eval:Benchmark Dataset",
-    "tags": ["Model:Hybrid", "Input:Image", "Eval:AUC", "Eval:Benchmark Dataset"],
+    "tags": ["Model:hybrid", "Input:Image", "Eval:AUC", "Eval:Benchmark Dataset"],
     "abstract": "This paper proposes a hybrid deepfake detection model combining CNNs and Vision Transformers. It leverages local spatial features and global dependencies to capture subtle manipulations in deepfake images. Evaluation on Celeb-DF and FaceForensics++ shows strong detection accuracy and robustness."
   },
   "Wodajo2021": {
@@ -116,7 +116,7 @@ const generatedBibEntries = {
     "journal": "arXiv preprint",
     "type": "article",
     "keywords": "Model:hybrid, Input:Video, Eval:AUC, Eval:Benchmark Dataset",
-    "tags": ["Model:Hybrid", "Input:Video", "Eval:AUC", "Eval:Benchmark Dataset"],
+    "tags": ["Model:hybrid", "Input:Video", "Eval:AUC", "Eval:Benchmark Dataset"],
     "abstract": "The authors present a hybrid architecture combining CNN and vision transformer blocks for deepfake video detection. The model captures both spatial and temporal inconsistencies across frames. It outperforms several baselines on DFDC and DFD benchmarks in terms of AUC and F1 score."
   }
 };
