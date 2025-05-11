@@ -1,5 +1,5 @@
 const userDefinedTagCategories = {
-	"type": {
-		"description": "type of the paper"
-	}
-}
+  "Model": { "description": "Model architecture type" },
+  "Input": { "description": "Input data type" },
+  "Eval": { "description": "Evaluation method" }
+};
