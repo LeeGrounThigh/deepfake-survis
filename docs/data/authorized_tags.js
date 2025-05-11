@@ -1,5 +1,5 @@
-const userDefinedTagCategories = {
-	"type": {
-		"description": "type of the paper"
+const userDefinedAuthorizedTags = {
+	"type:system": {
+		"description": "paper describing a system"
 	}
 }
